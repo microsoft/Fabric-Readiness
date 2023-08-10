@@ -1,3 +1,18 @@
+# Fabric Readiness
+
+![logo](./assets/logo.png)
+
+The Fabric Readiness repo is designed to enable communities interested in topics and concepts related to [Microsoft Fabric](https://www.microsoft.com/en/microsoft-fabric/).  This repository currently provides a collection of presentation decks that are intended to be reused in user groups, online presentations, in-person conferences, and customer conversations.  These decks may be modified, revised, and used for any purpose that you see fitting.
+
+To pull down a local copy of all included slide decks with git tracking, ensure that you have installed and enabled [git-lfs](https://git-lfs.com/), then clone this repo with:
+
+```
+git clone https://github.com/microsoft/Fabric-Readiness.git
+```
+
+# Presentation Content & Abstracts
+
+[01. Introducing Unified Analytics](./presentations/01.%20Introducing%20Unified%20Analytics.pptx) - Microsoft Fabric delivers an integrated and simplified experience for all analytics workloads and users on an enterprise-grade data foundation.
 
 # Contributing
 
