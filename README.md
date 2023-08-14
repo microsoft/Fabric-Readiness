@@ -14,6 +14,10 @@ git clone https://github.com/microsoft/Fabric-Readiness.git
 
 [01. Introducing Unified Analytics](./presentations/01.%20Introducing%20Unified%20Analytics.pptx) - Microsoft Fabric delivers an integrated and simplified experience for all analytics workloads and users on an enterprise-grade data foundation.
 
+[02. Data Engineering with Microsoft Synapse](./presentations/02.%20Data%20Engineering%20with%20Microsoft%20Synapse.pptx) - Discover how you can simplify data engineering with the tools you already know—like Synapse—in Microsoft Fabric.
+
+[04. Data Warehousing with Microsoft Fabric](./presentations/04.%20Data%20Warehousing%20with%20Microsoft%20Fabric.pptx) - Learn how to build a data warehouse on top of OneLake, unify datasets, and connect to machine learning, analysis, and visualization tools—helping unlock intelligent decision-making.
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
