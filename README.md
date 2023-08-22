@@ -20,6 +20,8 @@ git clone https://github.com/microsoft/Fabric-Readiness.git
 
 [04. Data Warehousing with Microsoft Fabric](./presentations/04.%20Data%20Warehousing%20with%20Microsoft%20Fabric.pptx) - Learn how to build a data warehouse on top of OneLake, unify datasets, and connect to machine learning, analysis, and visualization tools—helping unlock intelligent decision-making.
 
+[06. Data Integration with Data Factory](./presentations/06.%20Data%20Integration%20with%20Data%20Factory.pptx) - Learn how to orchestrate data movement and data transformation to efficiently monitor and manage data across your organization at enterprise scale with Microsoft Fabric.
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
