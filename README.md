@@ -16,6 +16,8 @@ git clone https://github.com/microsoft/Fabric-Readiness.git
 
 [02. Data Engineering with Microsoft Synapse](./presentations/02.%20Data%20Engineering%20with%20Microsoft%20Synapse.pptx) - Discover how you can simplify data engineering with the tools you already know—like Synapse—in Microsoft Fabric.
 
+[03. Data Science in Microsoft Fabric](./presentations/03.%20Data%20Science%20in%20Microsoft%20Fabric.pptx) - Learn about Fabric's Data Science capabilities. Prepare your data and run machine learning workflows at scale.
+
 [04. Data Warehousing with Microsoft Fabric](./presentations/04.%20Data%20Warehousing%20with%20Microsoft%20Fabric.pptx) - Learn how to build a data warehouse on top of OneLake, unify datasets, and connect to machine learning, analysis, and visualization tools—helping unlock intelligent decision-making.
 
 # Contributing
