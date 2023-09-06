@@ -2,7 +2,7 @@
 
 ![logo](./assets/logo.png)
 
-The Fabric Readiness repo is designed to enable communities interested in topics and concepts related to [Microsoft Fabric](https://www.microsoft.com/en/microsoft-fabric/). This repository currently provides a collection of presentation decks that are intended to be reused in user groups, online presentations, in-person conferences, and customer conversations. All presentation slides contain fully transcribed notes, allowing presenters to confidently deliver accurate messaging of the covered topics. These decks may be modified, revised, and used for any purpose that you see fitting.
+The Fabric Readiness repo is designed to enable communities interested in topics and concepts related to [Microsoft Fabric](https://www.microsoft.com/en/microsoft-fabric/). This repository currently provides a collection of presentation decks that are intended to be reused in user groups, online presentations, in-person conferences, and customer conversations. All presentation slides contain fully transcribed notes, allowing presenters to confidently deliver accurate messaging of the covered topics. These decks may be modified, revised, and used for any purpose that you see fitting.   
 
 To pull down a local copy of all included slide decks with git tracking, ensure that you have installed and enabled [git-lfs](https://git-lfs.com/), then clone this repo with:
 
@@ -11,6 +11,8 @@ git clone https://github.com/microsoft/Fabric-Readiness.git
 ```
 
 # Presentation Content & Abstracts
+
+These presentations were created to support the [Fabric Webinar Series](https://aka.ms/fabric-webinar-series) that was created to support the [Public Preview announcment Microsoft Fabric at Build 2023](https://azure.microsoft.com/blog/introducing-microsoft-fabric-data-analytics-for-the-era-of-ai/).  You can view recordings of these presentations being delivered at https://aka.ms/fabric-webinar-series.
 
 | Title                                                   | Description                                                                                                                                                                                            | Slides                                                                                                         | View Slides Online                                                                                                                                                                                                    |
 | ------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
