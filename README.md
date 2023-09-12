@@ -24,6 +24,21 @@ These presentations were created to support the [Fabric Webinar Series](https://
 | 06. Data Integration with Data Factory                  | Learn how to orchestrate data movement and data transformation to efficiently monitor and manage data across your organization at enterprise scale with Microsoft Fabric.                              | [Download .pptx](./presentations/06.%20Data%20Integration%20with%20Data%20Factory.pptx)                        | [Preview Online](https://view.officeapps.live.com/op/view.aspx?src=https://github.com/microsoft/Fabric-Readiness/raw/main/presentations/06.%20Data%20Integration%20with%20Data%20Factory.pptx)                        |
 | 07. Introduction to Microsoft Fabric for Power BI Users | Easily connect data sources and create reports with cutting-edge visualizations to unlock insights for your organization. See how building reports is now more simple, productive, and effective.      | [Download .pptx](./presentations/07.%20Introduction%20to%20Microsoft%20Fabric%20for%20Power%20BI%20Users.pptx) | [Preview Online](https://view.officeapps.live.com/op/view.aspx?src=https://github.com/microsoft/Fabric-Readiness/raw/main/presentations/07.%20Introduction%20to%20Microsoft%20Fabric%20for%20Power%20BI%20Users.pptx) |
 
+# Enhance your presentations with additional resources
+
+If you're aiming to make your presentation truly stand out, personalization is the key. Fortunately, we've got some fantastic resources to help you tailor your delivery.
+
+## Fabric Icons
+
+Build great-looking presentations with Microsoft Fabric product, experience, and item icons. Access them via the [Fabric Documentation](https://aka.ms/fabricicons) to add that extra visual flair to your presentation.
+
+## Fabric Notes
+
+For a more engaging and illustrative approach, check out [Fabric Notes](https://aka.ms/fabricnotes). These simple drawings succinctly convey the core concepts of Microsoft Fabric, making it accessible for everyone to understand and create with Fabric.
+![Fabric Notes](https://microsoft.github.io/fabricnotes/images/notes/01-welcome.png)
+
+These notes are provided as images, with the same aspect ratio than the PowerPoint slides.
+
 # Contributing
 
 This project welcomes contributions and suggestions. Most contributions require you to agree to a
