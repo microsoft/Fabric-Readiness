@@ -1,30 +1,32 @@
-# Fabric Readiness Hands-on day
+# Fabric Hands-on day
 
-If you want to organize an half-day or a full day around Microsoft Fabric, whith hands-on experience, here is an agenda, 
-presentations and labs ready for you to use. This agenda is adaptable, with labs that you swap to best suit your audience.
+![](./assets/fabric-handson-day.png)
 
-> _Note_: The proposed hours are based on France timings. Do not hesitate to adjust to business hours in your country.
+"Fabric Hands-On day" is a one-day, hands-on workshop for business analysts, covering the breadth of [Microsoft Fabric](https://www.microsoft.com/microsoft-fabric) capabilities.
 
-## Morning agenda
+At the end of the day, attendees will better understand:
 
-| Hour | Content                                                                                         | Duration
-|------|-------------------------------------------------------------------------------------------------|---------------|
-| 9am  | Welcome                                                                                         | 10 min        |
-| 9am10| Introduction to Microsoft Fabric                                                                | 10 min        |
+- What is Microsoft Fabric
+- What is OneLake and how to build a report based on Lakehouse data
+- What are the other types of workloads on Microsoft Fabric (Warehouse, Data Science, )
 
+## For attendees
 
-
-## Afternoon agenda
+![](./assets/fabric-handson-day-agenda.png)
 
 
-| Hour | Content                                                                                         | Duration
-|------|-------------------------------------------------------------------------------------------------|---------------|
-| 2pm  | Fabric Momentum                                                                                 | 10 min        |
-|2.10pm| Fabric Roadmap                                                                                  | 10-15 min     |
-|2.15pm| (For partners & Microsoftees) How we can help you?                                              | 10 min        |
-|2.30pm| Labs then break                                                                                 | 2h30          |
-|4.30pm| Wrap-up and Q&A                                                                                 | 30 min         |
+### Slides
 
-## Organizer guide
+- Morning slides: [View online](https://view.officeapps.live.com/op/view.aspx?src=https://github.com/cmaneu/Fabric-Readiness/raw/mainfabric-readiness-hands-on-day/readiness-hands-on-day/slides/fabric-handson-day-morning-keynote.pptx) [Download PPT](./slides/fabric-handson-day-morning-keynote.pptx) [Download PDF](./slides/fabric-handson-day-morning-keynote.pdf)
+- Afternoon slides: [View online](https://view.officeapps.live.com/op/view.aspx?src=https://github.com/cmaneu/Fabric-Readiness/raw/mainfabric-readiness-hands-on-day/readiness-hands-on-day/slides/fabric-handson-day-afternoon-keynote.pptx) [Download PPT](./slides/fabric-handson-day-afternoon-keynote.pptx) [Download PDF](./slides/fabric-handson-day-afternoon-keynote.pdf)
 
-### How to setup labs with capacity
+### Labs
+
+- https://aka.ms/fabric-hod/lab1
+- https://aka.ms/fabric-hod/laba
+- https://aka.ms/fabric-hod/labb
+- https://aka.ms/fabric-hod/labc
+
+## For Instructors
+
+Please see detailed instructions [here](./readme-instructor.md) to run your own hands-on day.
