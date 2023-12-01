@@ -17,8 +17,8 @@ At the end of the day, attendees will better understand:
 
 ### Slides
 
-- Morning slides: [View online](https://view.officeapps.live.com/op/view.aspx?src=https://github.com/cmaneu/Fabric-Readiness/raw/mainfabric-readiness-hands-on-day/readiness-hands-on-day/slides/fabric-handson-day-morning-keynote.pptx) [Download PPT](./slides/fabric-handson-day-morning-keynote.pptx) [Download PDF](./slides/fabric-handson-day-morning-keynote.pdf)
-- Afternoon slides: [View online](https://view.officeapps.live.com/op/view.aspx?src=https://github.com/cmaneu/Fabric-Readiness/raw/mainfabric-readiness-hands-on-day/readiness-hands-on-day/slides/fabric-handson-day-afternoon-keynote.pptx) [Download PPT](./slides/fabric-handson-day-afternoon-keynote.pptx) [Download PDF](./slides/fabric-handson-day-afternoon-keynote.pdf)
+- Morning slides: [Download PPT](./slides/fabric-handson-day-morning-keynote.pptx) [Download PDF](./slides/fabric-handson-day-morning-keynote.pdf)
+- Afternoon slides: [View online](https://view.officeapps.live.com/op/view.aspx?src=https://github.com/cmaneu/Fabric-Readiness/raw/fabric-readiness-hands-on-day/readiness-hands-on-day/slides/fabric-handson-day-afternoon-keynote.pptx) [Download PPT](./slides/fabric-handson-day-afternoon-keynote.pptx) [Download PDF](./slides/fabric-handson-day-afternoon-keynote.pdf)
 
 ### Labs
 
