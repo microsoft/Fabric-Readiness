@@ -1,19 +1,29 @@
 # Fabric Readiness Hands-on Day - Instructor guide
 
-> This guide is under construction. If you need help while we're writing it, please open an issue and tag @cmaneu ;).
-
 ## What is an "Hands-on Day"?
+
+Fabric Readiness hands-on day (HOD) is a full day tailored to discover and explore Microsoft Fabric, providing participants with a comprehensive understanding and hands-on experience in a real-world context.
 
 ## How to organise an Hands-on Day?
 
-### Content usage guidelines
+The HOD can be organized virtually or in-person. To organize it, you'll need: 
+- A number of instructors based on the number of attendees (A ratio of 1:6 - 1:10 is recomended).
+- Either provide a Fabric tenant, or ensure that all attendees will have access to the tenant.
+
+The HOD is divided in two half-days. They both have a keynote/presentation time, and a hands-on lab.
+- **Morning**: The content of the morning is fixed. Please follow the proposed agenda.
+- **Afternoon**: The afternoon content allows for more personalization
+    - You can choose the afternoon lab depending on your audience: Data Science, Realtime, Datawarehouse
+    - During the keynote, if you are a Microsoft Partner, do not hesitate to take a few minutes to introduce how you can help your customers in implementing Microsoft Fabric. 
+
+> If something is unclear in this doc, or if you have additional questions, please open an issue so we can help you!
 
 ### Prepare for the delivery
 
 - Download the latest content from the GitHub repository
 - Become familiar with the latest product updates [https://blog.fabric.microsoft.com/]
 - Choose which labs you'll run in the afternoon
-- Create a backup tenant with username/passwords
+- Create a backup tenant with username/passwords.
 
 Please reach out through GitHub issues with any questions.
 
@@ -24,14 +34,47 @@ Please reach out through GitHub issues with any questions.
 
 ### Preparing tenants for the labs
 
+Microsoft Fabric labs requires a specific environment: 
+- A Microsoft 365 Tenant (some labs use OneDrive, and thus will not work with Azure AD-only tenants)
+- An access to Microsoft Fabric (The tenant admin needs to enable it)
+- An access to a Microsoft Fabric Capacity: Trial, Premium or Azure "F SKU".
+
+While the amount of volume processed in the labs is small (in the 100's MBs), all participants will create and interact with a Spark session. The way [Fabric Spark Session & nodes](https://learn.microsoft.com/fabric/data-engineering/spark-compute) works may create some limitations depending on your environment.
+
+#### About Fabric Trials
+
+Microsoft offres a free, 60 days trial of Microsoft Fabric. Yet, you need to be aware of few limitations: 
+- There is a limited availability of Fabric Trial per tenant. If other people within your organization have already redeemed a Trial, you might not be able to redeem one.
+- Each Fabric Trial has a limited capacity, that will not be usable by too many people at once.
+
+#### How much capacity do you need?
+
+With the default configuration, you need an F4 capacity per attendee (either with each attendee having an F4 capacity, or with one shared capacity for the entire class). Each capacity unit - an F4 has 4 capacity units - allows you to get 8 Spark vCore (1CU = 2vCore). The default Spark pool - the Starter pool - nodes are using 8 vCore. 
+
+If Fabric cost is a concern for your delivery, you can optimize it by creating a custom pool with only small instance and only one node. While you'll gain in terms of hourly cost, you need to be aware that each session start will take approximately 3 minutes instead of 10 seconds, and most code will take twice as much time to execute. You can also pause the capacity outside the labs time, and thus only paying for a Fabric capacity for something like 3-4 hours for the HOD.
+
+| Capacity | Maximum recomended number of attendees with default settings |  Maximum recomended number of attendees with custom pools |
+| ---|---|---| 
+| F2    | 1 | 1 | 
+| F4    | 1 | 1 | 
+| F8    | 2 | 4 | 
+| F16   | 4 | 8 | 
+| F32   | 8 | 16 | 
+| F64   | 16 | 32 |
+| F128  | 32 | 64 |
+| F256  | 64 | 128 |
+
+> Note: there are some optimizations in place that will allow to outgrow these number of attendees with a specific capacity. To offer the best learning experience, we recommend to stay within these limits.
+
 ## How to deliver an Hands-on Day?
 
 ### Keynotes
 
+We will provide slides notes in the future to help you deliver this content. Meanwhile, you can [watch this Microsoft Ignite session](https://ignite.microsoft.com/en-US/sessions/1eff13d6-1924-435a-8778-111d7131f061?source=/speakers/e25ab775-304e-4b10-bd32-2a30396c420d). Please also take time to read the latest product updates on the [Updates Blog](https://blog.fabric.microsoft.com/en-GB/blog/). New features are announced monthly, and some decks may not be up to date with the latest feature launches.
 
 ### Labs
 
-
+We encourage you to take the time to go through each and every lab. They are straightforward, yet you need to know them to ensure a great learner experience. As said in the keynotes, Microsoft Fabric is evolving rapidly. If the labs have not caught-up with one of the product releases, please open an issue on this repository.
 
 ### Demo
 
