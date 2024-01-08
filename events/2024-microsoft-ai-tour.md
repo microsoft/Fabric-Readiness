@@ -1,31 +1,48 @@
-# Microsoft AI Tour - Make your data AI ready with Microsoft Fabric - Session resources
+# Thank You for Attending the Microsoft AI Tour!
 
-## Session resources
+We're delighted you joined us for the "Make your data AI ready with Microsoft Fabric" session. Below, you'll find a treasure trove of resources to further your learning and engagement with Microsoft Fabric.
 
-https://aka.ms/FabricRoadmap
+![](./assets/aitour-homepage.png)
 
-## Learn mote about Microsoft Fabric
+## Dive Deeper into Microsoft Fabric
 
-### Microsoft Fabric Learn Together
+### 🌟 Microsoft Fabric Learn Together
 
-https://learn.microsoft.com/shows/learn-live/microsoft-fabric-wave-1/
+Join us for expert-guided live sessions! These will cover all necessary modules to ace the DP-600 exam and achieve the Fabric Analytics Engineer Associate certification. Offering 9 episodes, catered to both India and Americas time zones.
 
-### Fabric Learn modules
+[Explore Learn Together Sessions](https://learn.microsoft.com/shows/learn-live/microsoft-fabric-wave-1/)
 
+### 👩‍💻 Hands-On Learning with Fabric
 
-### [Fabric Notes](https://aka.ms/fabricnotes)
+Enhance your skills with over 30 interactive, on-demand learning modules tailored for Microsoft Fabric.
 
-Fabric Notes is a collection of simple drawings illustrating the main concepts of Microsoft Fabric to empower anyone to build stuff on Fabric.
+[Start Your Learning Journey](https://learn.microsoft.com/training/browse/?products=fabric)
 
+> 🎓 **Special Offer:** Secure a **50% discount voucher for the Microsoft Fabric Exam** by completing the [Cloud Skills Challenge](https://aka.ms/fabric30dtli) between January and June 2024.
 
-## Microsoft Fabric certifications
+### 🟩 Easy Learning with [Fabric Notes](https://aka.ms/fabricnotes)
 
-_As the time of writing, The Fabric Certification is not yet released._
+Unlock the power of Microsoft Fabric with engaging, easy-to-understand illustrations. Perfect for all levels of expertise!
 
-[DP-600: Implementing Analytics Solutions Using Microsoft Fabric](https://learn.microsoft.com/credentials/certifications/exams/dp-600/) is the go-to certification for Microsoft Fabric practicioners.
+![](./assets/fabricnotes.png)
 
+[Access Fabric Notes Here](https://aka.ms/fabricnotes)
 
+## 🗺️ Your Path to Microsoft Fabric Certification
 
-## Meet the community
+_Currently, the Fabric Certification is under development._
 
-https://community.fabric.microsoft.com/
+Get ready for [DP-600: Implementing Analytics Solutions Using Microsoft Fabric](https://learn.microsoft.com/credentials/certifications/exams/dp-600/). Start preparing today to become a certified Microsoft Fabric practitioner.
+
+## 💬 Join the Microsoft Fabric Community
+
+Connect with fellow Fabric enthusiasts and experts. Your one-stop community hub: https://community.fabric.microsoft.com/. Here's what you'll find:
+
+- Interactive forums, like the [Synapse Forum](https://community.fabric.microsoft.com/t5/Synapse-forums/ct-p/AC-Community).
+- A global directory of [Fabric User Groups](https://community.fabric.microsoft.com/t5/Fabric-User-Groups/ct-p/fbc_usergroups).
+- The [Ideas Platform](https://ideas.fabric.microsoft.com/) for sharing and voting on product feedback.
+- Stay updated with the [Official Updates Blog](https://blog.fabric.microsoft.com/blog/).
+
+## ⏭️ Stay Ahead: The Future of Microsoft Fabric
+
+Be in the know with the latest developments and upcoming features. Check out the public roadmap at https://aka.ms/FabricRoadmap
