@@ -20,6 +20,12 @@ Enhance your skills with over 30 interactive, on-demand learning modules tailore
 
 > 🎓 **Special Offer:** Secure a **50% discount voucher for the Microsoft Fabric Exam** by completing the [Cloud Skills Challenge](https://aka.ms/fabric30dtli) between January and June 2024.
 
+### 🛠️ Hack Together: The Microsoft Fabric Global AI Hack
+
+The Microsoft Fabric Global AI Hack is your playground for creating and experimenting with Microsoft Fabric. With mentorship from Microsoft experts and access to the latest tech, you will learn how to build AI solutions with Microsoft Fabric! The possibilities are endless for what you can create... plus you can submit your hack for a chance to win exciting prizes! 🥳
+
+[Join the Microsoft Fabric Global AI Hackthon](https://aka.ms/fabricaihack)
+
 ### 🟩 Easy Learning with [Fabric Notes](https://aka.ms/fabricnotes)
 
 Unlock the power of Microsoft Fabric with engaging, easy-to-understand illustrations. Perfect for all levels of expertise!
