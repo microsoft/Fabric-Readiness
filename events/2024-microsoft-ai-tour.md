@@ -34,6 +34,12 @@ _Currently, the Fabric Certification is under development._
 
 Get ready for [DP-600: Implementing Analytics Solutions Using Microsoft Fabric](https://learn.microsoft.com/credentials/certifications/exams/dp-600/). Start preparing today to become a certified Microsoft Fabric practitioner.
 
+## Join us at the first ever Microsoft Fabric Community Conference
+
+Join us at the first annual Microsoft Fabric Community Conference and see firsthand how Microsoft Fabric and the rest of the data and AI products at Microsoft can help your organization prepare for the era of AI. You’ll hear from leading Microsoft and community experts from around the world and get hands on experiences with the latest features from Microsoft Fabric, Power BI, Databases, Azure AI, Microsoft Purview, and more.
+
+👉 [https://msdataaiconf.com/](https://msdataaiconf.com/#!/)
+
 ## 💬 Join the Microsoft Fabric Community
 
 Connect with fellow Fabric enthusiasts and experts. Your one-stop community hub: https://community.fabric.microsoft.com/. Here's what you'll find:
