@@ -6,19 +6,25 @@ We're delighted you joined us for the "Make your data AI ready with Microsoft Fa
 
 ## Dive Deeper into Microsoft Fabric
 
+### 👩‍💻 Microsoft Fabric Career Hub
+
+The one-stop location to begin your learning journey for the [DP-600: Implementing Analytics Solutions Using Microsoft Fabric certification](https://learn.microsoft.com/en-us/credentials/certifications/exams/dp-600/).
+
+[Microsoft Fabric Career Hub on the Fabric Community Site](https://aka.ms/FabricCareerHub?ocid=fabric24_careerhub_blog_cxa)
+
+> 🎓 **Special Offer:** Secure a **50% discount voucher for the Microsoft Fabric Exam** by completing the [Microsoft Fabric Cloud Skills Challenge](https://aka.ms/fabric30dtli) between January and June 2024.
+
 ### 🌟 Microsoft Fabric Learn Together
 
 Join us for expert-guided live sessions! These will cover all necessary modules to ace the DP-600 exam and achieve the Fabric Analytics Engineer Associate certification. Offering 9 episodes, catered to both India and Americas time zones.
 
 [Explore Learn Together Sessions](https://learn.microsoft.com/shows/learn-live/microsoft-fabric-wave-1/)
 
-### 👩‍💻 Hands-On Learning with Fabric
+### 📖 Hands-On Learning with Fabric
 
 Enhance your skills with over 30 interactive, on-demand learning modules tailored for Microsoft Fabric.
 
 [Start Your Learning Journey](https://learn.microsoft.com/training/browse/?products=fabric)
-
-> 🎓 **Special Offer:** Secure a **50% discount voucher for the Microsoft Fabric Exam** by completing the [Cloud Skills Challenge](https://aka.ms/fabric30dtli) between January and June 2024.
 
 ### 🛠️ Hack Together: The Microsoft Fabric Global AI Hack
 
