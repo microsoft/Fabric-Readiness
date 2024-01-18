@@ -30,7 +30,7 @@ Enhance your skills with over 30 interactive, on-demand learning modules tailore
 
 Microsoft Learn helps you discover the tools and enhance your skills as an AI engineer, Data Analyst, Data Engineer, Data Scientist, and Developer. Develop your skills with five AI-themed challenges. Complete a challenge within 30 days of starting for a chance to earn a 50% discount on a Microsoft Certification exam.
 
-[Start Your Learning Journey](https://aka.ms/aitourdeveloper)
+[Start Your Learning Journey](https://learn.microsoft.com/en-us/collections/kxqae021m5j5m?wt.mc_id=aitour_advocacydeck_devcollection_cnl)
 
 ### 🛠️ Hack Together: The Microsoft Fabric Global AI Hack
 
