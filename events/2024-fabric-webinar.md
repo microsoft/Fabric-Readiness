@@ -1,4 +1,4 @@
-# Thank You for Attending the Microsoft AI Tour!
+# Thank You for attending "Getting Started with Microsoft Fabric in 60 Minutes"!
 
 We're delighted you joined us for the "Power Business Decisions with Cloud Scale Analytics - Getting Started with Microsoft Fabric in 60 Minutes" session. Below, you'll find a treasure trove of resources to further your learning and engagement with Microsoft Fabric.
 
