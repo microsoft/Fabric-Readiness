@@ -1,6 +1,6 @@
 # Thank You for Attending the Microsoft AI Tour!
 
-We're delighted you joined us for the "Make your data AI ready with Microsoft Fabric" session. Below, you'll find a treasure trove of resources to further your learning and engagement with Microsoft Fabric.
+We're delighted you joined us for the "Power Business Decisions with Cloud Scale Analytics - Getting Started with Microsoft Fabric in 60 Minutes" session. Below, you'll find a treasure trove of resources to further your learning and engagement with Microsoft Fabric.
 
 ![](./assets/azure-webinar-getting-started-fabric.png)
 
