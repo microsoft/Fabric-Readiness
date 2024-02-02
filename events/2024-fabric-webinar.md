@@ -1,6 +1,6 @@
 # Thank You for attending "Getting Started with Microsoft Fabric in 60 Minutes"!
 
-We're delighted you joined us for the "Power Business Decisions with Cloud Scale Analytics - Getting Started with Microsoft Fabric in 60 Minutes" session. Below, you'll find a treasure trove of resources to further your learning and engagement with Microsoft Fabric.
+We're delighted you joined us for the ["Power Business Decisions with Cloud Scale Analytics - Getting Started with Microsoft Fabric in 60 Minutes"](https://info.microsoft.com/ww-landing-getting-started-with-microsoft-fabric-in-60-minutes.html?lcid=en-us) session. Below, you'll find a treasure trove of resources to further your learning and engagement with Microsoft Fabric.
 
 ![](./assets/azure-webinar-getting-started-fabric.png)
 
