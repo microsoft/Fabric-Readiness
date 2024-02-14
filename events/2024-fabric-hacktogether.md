@@ -17,6 +17,12 @@ On March 26-28, 2024 in Las Vegas:
 
 [Save your seat now](https://blog.fabric.microsoft.com/en-us/blog/save-your-seat-at-the-ultimate-fabric-learning-event?ft=All) and use code MSCUST for a $100 discount!
 
+### 🛠️ Hack Together: The Microsoft Fabric Global AI Hack
+
+The Microsoft Fabric Global AI Hack is your playground for creating and experimenting with Microsoft Fabric. With mentorship from Microsoft experts and access to the latest tech, you will learn how to build AI solutions with Microsoft Fabric! The possibilities are endless for what you can create... plus you can submit your hack for a chance to win exciting prizes! 🥳
+
+[Join the Microsoft Fabric Global AI Hackthon](https://aka.ms/fabricaihack)
+
 ### 👩‍💻 Microsoft Fabric Career Hub
 
 The one-stop location to begin your learning journey for the [DP-600: Implementing Analytics Solutions Using Microsoft Fabric certification](https://learn.microsoft.com/en-us/credentials/certifications/exams/dp-600/).
@@ -42,12 +48,6 @@ Enhance your skills with over 30 interactive, on-demand learning modules tailore
 Microsoft Learn helps you discover the tools and enhance your skills as an AI engineer, Data Analyst, Data Engineer, Data Scientist, and Developer. Develop your skills with five AI-themed challenges. Complete a challenge within 30 days of starting for a chance to earn a 50% discount on a Microsoft Certification exam.
 
 [Start Your Learning Journey](https://learn.microsoft.com/en-us/collections/kxqae021m5j5m?wt.mc_id=aitour_advocacydeck_devcollection_cnl)
-
-### 🛠️ Hack Together: The Microsoft Fabric Global AI Hack
-
-The Microsoft Fabric Global AI Hack is your playground for creating and experimenting with Microsoft Fabric. With mentorship from Microsoft experts and access to the latest tech, you will learn how to build AI solutions with Microsoft Fabric! The possibilities are endless for what you can create... plus you can submit your hack for a chance to win exciting prizes! 🥳
-
-[Join the Microsoft Fabric Global AI Hackthon](https://aka.ms/fabricaihack)
 
 ### 🟩 Easy Learning with [Fabric Notes](https://aka.ms/fabricnotes)
 
