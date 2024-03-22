@@ -39,6 +39,10 @@ For a more engaging and illustrative approach, check out [Fabric Notes](https://
 
 These notes are provided as images, with the same aspect ratio than the PowerPoint slides.
 
+## Fabric Samples
+
+You may want to include some live demos in your presentation. [Fabric Samples](https://github.com/microsoft/fabric-samples) is a repository containing both official and community samples.
+
 # Contributing
 
 This project welcomes contributions and suggestions. Most contributions require you to agree to a
